@@ -97,14 +97,14 @@ section-contact-section .contact-section-content
     justify-content: center;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #916297;
+    background-color: #5b595c;
     color: #fff;
     border-radius: 100%;
     font-size: 1.5rem;
     margin-right: 1.5rem;
 }
 
-.social-media:hover {transition: 0.3s; background-color:#cb8ed3;}
+.social-media:hover {transition: 0.3s; background-color: #7f7f7f;}
 
 /* Custom Icon(s) */
 
